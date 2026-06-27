@@ -1,67 +1,71 @@
-Final Recommendation
+# Final Recommendation
 
-Strongest factors affecting monthly sales
+## Strongest factors affecting monthly sales
+
 Regression results indicate the primary drivers of monthly sales are:
 
-Footfall
-
-Marketing Spend
-
-Inventory Availability
-
-Customer Rating
+* Footfall
+* Marketing Spend
+* Inventory Availability
+* Customer Rating
 
 Footfall is the most influential predictor.
 
-Leadership focus areas
+---
+
+## Leadership focus areas
+
 Leadership should concentrate on:
 
-Increasing store footfall
+* Increasing store footfall
+* Improving marketing efficiency
+* Maintaining high inventory availability
+* Enhancing the customer experience
 
-Improving marketing efficiency
+---
 
-Maintaining high inventory availability
+## Variables to interpret carefully
 
-Enhancing the customer experience
-
-Variables to interpret carefully
 Do not over-interpret these variables:
 
-Region_North
-
-Holiday_Flag
+* Region_North
+* Holiday_Flag
 
 These variables exhibited weaker statistical significance.
 
-Recommended business actions
+---
 
-Boost customer traffic with targeted campaigns
+## Recommended business actions
 
-Improve stock availability across stores
+* Boost customer traffic with targeted campaigns
+* Improve stock availability across stores
+* Invest in customer experience initiatives
+* Prioritize growth efforts in the South and West regions
 
-Invest in customer experience initiatives
+---
 
-Prioritize growth efforts in the South and West regions
+## Risks & limitations
 
-Risks & limitations
 Be aware of regression limits:
 
-Not all business drivers are included
-
-Some external factors remain unmeasured
-
-Unexpected local conditions can affect sales
+* Not all business drivers are included
+* Some external factors remain unmeasured
+* Unexpected local conditions can affect sales
 
 Examples of unmeasured influences:
 
-Competitor actions
+* Competitor actions
+* Seasonal demand
+* Local promotions
 
-Seasonal demand
+---
 
-Local promotions
+## Important note on causation
 
-Important note on causation
 Regression identifies associations between variables and sales.
+
 It does not by itself establish causation.
+
 For example, higher marketing spend correlating with higher sales does not prove marketing directly caused the increase.
+
 Use regression findings together with domain expertise and controlled experimentation when making business decisions.
